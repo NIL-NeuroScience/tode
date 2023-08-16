@@ -22,5 +22,7 @@ An export option allows storing the data for each acquired cortical depth of eac
 
 **Sourcecode**: [Download v1.0.0 - 1.13 GB](https://github.com/NIL-NeuroScience/tode/releases/download/v1.0.0/TODEsource.zip)
 
+*A detailed overview on the database and the GUI can be found in the [manuscript draft](TODE_Manuscript_v1.pdf).*
+
 ## References
 [1]: Mächler, P., N. Fomin-Thunemann, M. Thunemann, M. J. Saetra, M. Desjardins, K. Kilic, L. N. Amra, E. A. Martin, I. A. Chen, I. Sencan-Egilmez, B. Li, P. Saisan, J. X. Jiang, Q. Cheng, K. L. Weldy, D. A. Boas, R. B. Buxton, G. T. Einevoll, A. M. Dale, S. Sakadzic and A. Devor (2022). "Baseline oxygen consumption decreases with cortical depth." PLoS Biol 20(10): e3001440. [Link to paper.](https://dx.plos.org/10.1371/journal.pbio.3001440)
