@@ -1,4 +1,7 @@
 # Tissue Oxygen Depth Explorer (TODE): An Interactive Database for Microscopic Oxygen Imaging Data
+
+***Download the application together with the datasets from the [releases](https://github.com/NIL-NeuroScience/tode/releases/) page.***
+
 Tissue Oxygen Depth Explorer (TODE) v1.0 is a MATLAB-based database with graphical user interface (GUI) to simplify access and visualization.
 
 The datasets included with TODE v1.0 were generated as part of our recent 2P-PLM-based study on oxygen metabolism across cortical layers in awake mice under ‘resting-state’ conditions [[1]](https://dx.plos.org/10.1371/journal.pbio.3001440). 
